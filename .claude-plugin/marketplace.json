@@ -1,0 +1,12 @@
+{
+  "name": "jg-cc-plugins",
+  "owner": { "name": "jakubgajski" },
+  "description": "Claude Code plugins by jakubgajski",
+  "plugins": [
+    {
+      "name": "compaiku",
+      "source": "./plugins/compaiku",
+      "description": "/compaiku [instructions]: compact the conversation using Haiku, leaving your model and effort untouched"
+    }
+  ]
+}
