@@ -7,6 +7,11 @@
       "name": "compaiku",
       "source": "./plugins/compaiku",
       "description": "/compaiku [instructions]: compact the conversation using Haiku, leaving your model and effort untouched"
+    },
+    {
+      "name": "shellwatch",
+      "source": "./plugins/shellwatch",
+      "description": "Every 5 minutes, asks Haiku whether this session's long-running shells are stuck and hands the stuck ones to Claude"
     }
   ]
 }

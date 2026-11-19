@@ -5,6 +5,7 @@ Claude Code plugins (mods).
 | Plugin | What it does |
 |---|---|
 | [compaiku](plugins/compaiku) | `/compaiku [instructions]`: compact the conversation with Haiku, keeping your model and effort |
+| [shellwatch](plugins/shellwatch) | Every 5 minutes, asks Haiku whether this session's long-running shells are stuck and hands the stuck ones to Claude |
 
 ## Install
 

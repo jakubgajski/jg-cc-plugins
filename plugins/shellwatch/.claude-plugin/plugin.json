@@ -1,0 +1,1 @@
+{ "name": "shellwatch", "version": "0.1.0", "description": "Every 5 minutes, asks Haiku whether this session's long-running shells are stuck and hands the stuck ones to Claude", "author": { "name": "jakubgajski" }, "license": "MIT" }
